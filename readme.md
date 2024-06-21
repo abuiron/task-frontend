@@ -3,7 +3,7 @@
 This repository contains the code for a promotional email template for MeUndies. The email template is designed using HTML and CSS, and features a clean, modern design with responsive elements.
 
 ## Table of Contents
-- [Preview](#preview)
+- [Preview](#live-demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
