@@ -34,7 +34,7 @@ You will need a modern web browser to view the project.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/meundies-emailer.git
+   git clone https://github.com/abuiron/task-frontend.git
 
 2. Open the index.html file in your web browser to view the email template.
 
